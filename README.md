@@ -9,5 +9,7 @@ El problema que vamos a solucionar en nuestro proyecto es la organización del t
 - Poder establecer recordatorios y/o alarmas para cada tarea.
 
 ## Archivos de configuración
-Configuración de git: ![configuración Git](docs/configuracion-git.png)
+Configuración de Git:
+![Configuración de Git](docs/configuracion-git.png)
+
 
